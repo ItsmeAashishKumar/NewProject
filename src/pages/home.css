@@ -1,0 +1,190 @@
+.mask-group-icon {
+  width: 35.5rem;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+}
+.foster-competition-via {
+  margin: 0;
+  width: 30.688rem;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.01em;
+  line-height: 2.125rem;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.our-platform-enhances {
+  align-self: stretch;
+  position: relative;
+  font-size: 1rem;
+  line-height: 140%;
+}
+.gamification-description,
+.gamification-description-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.gamification-description {
+  align-self: stretch;
+  gap: 0.937rem;
+}
+.gamification-description-wrapper {
+  width: 33.313rem;
+  padding: 6.062rem 0 0;
+  box-sizing: border-box;
+  min-width: 33.313rem;
+}
+.gamification-content {
+  width: 74.563rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 1.25rem;
+}
+.brands-content-parent,
+.gamification-content-wrapper {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.gamification-content-wrapper {
+  width: 86.438rem;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 1.25rem;
+  text-align: left;
+  font-size: 1.75rem;
+  color: #000;
+  font-family: Metropolis;
+}
+.brands-content-parent {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 14.687rem;
+  gap: 3.768rem;
+  flex-shrink: 0;
+}
+.more-from-the {
+  margin: 0;
+  height: 2.813rem;
+  width: 41.188rem;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.01em;
+  line-height: 100%;
+  text-transform: capitalize;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.eazy-house,
+.home {
+  display: flex;
+  box-sizing: border-box;
+}
+.eazy-house {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 1.25rem 0 1.312rem;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.home {
+  width: 100%;
+  height: 191.563rem;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 1.562rem 0 0;
+  gap: 6.25rem;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: 2.813rem;
+  color: #fff;
+  font-family: Metropolis;
+}
+@media screen and (max-width: 1200px) {
+  .gamification-description-wrapper,
+  .mask-group-icon {
+    width: 32rem;
+  }
+
+  .mask-group-icon2{
+    width: 30rem;
+  }
+  
+  .brands-content-parent {
+    padding-bottom: 6.188rem;
+    box-sizing: border-box;
+  }
+  .home {
+    height: auto;
+  }
+}
+
+@media  screen and (max-width:1165px){
+  .image-63-icon{
+    width: 15rem;
+  }
+}
+
+
+@media screen and (max-width: 1050px) {
+  .more-from-the {
+    font-size: 2.25rem;
+    line-height: 2.25rem;
+  }
+  .gamification-description{
+    width: 30px;
+  }
+  
+}
+@media screen and (max-width: 750px) {
+  .gamification-description-wrapper {
+    min-width: 100%;
+  }
+  .brands-content-parent {
+    gap: 1.875rem;
+    padding-bottom: 4rem;
+    box-sizing: border-box;
+  }
+  .home {
+    gap: 3.125rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .foster-competition-via {
+    font-size: 1.375rem;
+    line-height: 1.688rem;
+  }
+  .brands-content-parent {
+    gap: 0.938rem;
+  }
+  .more-from-the {
+    font-size: 1.688rem;
+    line-height: 1.688rem;
+  }
+  .home {
+    gap: 1.563rem;
+  }
+}
+

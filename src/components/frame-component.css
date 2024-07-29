@@ -1,0 +1,535 @@
+.manage-multiple-tiered {
+  margin: 0;
+  width: 31.938rem;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.01em;
+  line-height: 2.125rem;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.we-can-support {
+  align-self: stretch;
+  position: relative;
+  font-size: 1rem;
+  line-height: 140%;
+}
+.manage-multiple-tiered-teams-parent,
+.team-management-description-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.manage-multiple-tiered-teams-parent {
+  align-self: stretch;
+  gap: 0.937rem;
+}
+.team-management-description-inner {
+  width: 33.313rem;
+  padding: 6.687rem 0 0;
+  box-sizing: border-box;
+  min-width: 33.313rem;
+  flex-shrink: 0;
+}
+.mask-group-icon2 {
+  height: 19.606rem;
+  width: 35.5rem;
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+}
+.team-management-content,
+.team-management-description {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.team-management-description {
+  width: 75.188rem;
+  justify-content: space-between;
+  gap: 1.25rem;
+}
+.team-management-content {
+  width: 85.813rem;
+  justify-content: center;
+  padding: 0 1.25rem;
+  box-sizing: border-box;
+}
+.component-11-child {
+  width: 90rem;
+  height: 29.25rem;
+  position: relative;
+  background-color: #000;
+  display: none;
+  max-width: 100%;
+}
+.vector-icon1 {
+  height: 1.438rem;
+  width: 1.438rem;
+  position: relative;
+  z-index: 1;
+}
+.address-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0.062rem;
+}
+.sivatel-tower-12th {
+  width: 18.813rem;
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+  z-index: 1;
+}
+.enter-your-email {
+  width: 12.063rem;
+  border: 0;
+  outline: 0;
+  font-weight: 500;
+  font-family: Metropolis;
+  font-size: 1rem;
+  background-color: transparent;
+  height: 1rem;
+  position: relative;
+  color: rgba(255, 255, 255, 0.24);
+  text-align: left;
+  display: inline-block;
+  padding: 0;
+}
+.email-input {
+  flex: 1;
+  border-radius: 6px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1.125rem 1.25rem;
+  min-width: 12.063rem;
+  z-index: 1;
+}
+.subscribe {
+  width: 5.813rem;
+  position: relative;
+  font-size: 1rem;
+  letter-spacing: 0.02em;
+  line-height: 120%;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: Metropolis;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 5.813rem;
+}
+.union-icon3 {
+  width: 1.044rem;
+  height: 0.875rem;
+  position: relative;
+}
+.union-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0.156rem 0 0;
+}
+.subscription-button {
+  cursor: pointer;
+  border: 1px solid #e297dc;
+  padding: 1rem 1.375rem 1rem 1.5rem;
+  background-color: transparent;
+  border-radius: 6px;
+  flex-direction: row;
+  gap: 0.625rem;
+  z-index: 1;
+}
+.form-content,
+.input-container,
+.subscription-button {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.input-container {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 0.937rem;
+}
+.form-content {
+  width: 30.231rem;
+  flex-direction: column;
+  gap: 2.312rem;
+  min-width: 30.231rem;
+  max-width: 100%;
+}
+.products1 {
+  text-decoration: none;
+  position: relative;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  min-width: 4.938rem;
+  z-index: 1;
+}
+.agency-management,
+.direct-to-consumer {
+  position: relative;
+  line-height: 140%;
+  z-index: 1;
+}
+.footer-link-categories,
+.footer-links1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.footer-link-categories {
+  align-self: stretch;
+  gap: 0.625rem;
+  font-size: 1rem;
+}
+.footer-links1 {
+  flex: 1;
+  gap: 1.562rem;
+  min-width: 6.688rem;
+}
+.apis-sdk,
+.developers,
+.documentation {
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.developers {
+  text-decoration: none;
+  font-weight: 600;
+  color: inherit;
+  min-width: 6.25rem;
+}
+.apis-sdk,
+.documentation {
+  line-height: 140%;
+  min-width: 7.375rem;
+}
+.apis-sdk {
+  min-width: 5.438rem;
+}
+.documentation-parent,
+.footer-links2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.documentation-parent {
+  align-self: stretch;
+  gap: 0.625rem;
+  font-size: 1rem;
+}
+.footer-links2 {
+  flex: 0.7613;
+  padding: 0 2.312rem 0 0;
+  box-sizing: border-box;
+  gap: 1.562rem;
+  min-width: 6.313rem;
+}
+.contact {
+  text-decoration: none;
+  position: relative;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  min-width: 4.313rem;
+  z-index: 1;
+}
+.div,
+.supportgmailio {
+  position: relative;
+  line-height: 140%;
+  white-space: nowrap;
+  z-index: 1;
+}
+.footer-links3,
+.parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.parent {
+  gap: 0.625rem;
+  font-size: 1rem;
+}
+.footer-links3 {
+  gap: 1.562rem;
+}
+.footer-links-container {
+  width: 30.813rem;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 1.25rem;
+  font-size: 1.125rem;
+  color: #fff;
+}
+.footer-content,
+.footer-links-container,
+.subscription-form {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.subscription-form {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 1.25rem;
+}
+.footer-content {
+  width: 72.688rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 1.125rem;
+}
+.social-icons-child,
+.social-icons-item {
+  height: 2.669rem;
+  width: 2.669rem;
+  position: relative;
+  min-height: 2.688rem;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.social-icons {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.025rem;
+}
+.separator {
+  align-self: stretch;
+  height: 0.063rem;
+  position: relative;
+  background-color: #fff;
+  border-top: 1px solid rgba(255, 255, 255, 0.16);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.all-rights-reserved {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.copyright {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0.062rem 0 0;
+}
+.privacy-policy {
+  align-self: stretch;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 5.938rem;
+  z-index: 1;
+}
+.legal-items {
+  width: 5.938rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0.187rem 0 0;
+  box-sizing: border-box;
+}
+.legal-items1,
+.security {
+  position: relative;
+  z-index: 1;
+}
+.legal-items1 {
+  height: 1.5rem;
+  width: 0.063rem;
+  background-color: #fff;
+  border-right: 1px solid rgba(255, 255, 255, 0.16);
+  box-sizing: border-box;
+}
+.security {
+  align-self: stretch;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 3.5rem;
+}
+.legal-items2 {
+  width: 3.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0.187rem 0 0;
+  box-sizing: border-box;
+}
+.legal-items3 {
+  height: 1.5rem;
+  width: 0.063rem;
+  position: relative;
+  background-color: #fff;
+  border-right: 1px solid rgba(255, 255, 255, 0.16);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.terms-conditions {
+  align-self: stretch;
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.legal-items4 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0.187rem 0 0;
+}
+.legal-links {
+  height: 1.438rem;
+  width: 21.25rem;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 0.893rem;
+  text-align: right;
+}
+.copyright-and-legal,
+.legal-links,
+.separator-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.copyright-and-legal {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 1.25rem;
+}
+.separator-parent {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 1.106rem;
+}
+.component-11,
+.footer-social,
+.footer-social-inner,
+.team-management-content-parent {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.footer-social-inner {
+  flex-direction: row;
+  padding: 0 0 0 0.125rem;
+  box-sizing: border-box;
+}
+.component-11,
+.footer-social,
+.team-management-content-parent {
+  flex-direction: column;
+}
+.footer-social {
+  gap: 2.893rem;
+  font-size: 0.875rem;
+  color: rgba(255, 255, 255, 0.24);
+}
+.component-11,
+.team-management-content-parent {
+  text-align: left;
+  font-family: Metropolis;
+}
+.component-11 {
+  background-color: #000;
+  padding: 5.125rem 4.25rem 1.081rem;
+  box-sizing: border-box;
+  gap: 3.812rem;
+  font-size: 1rem;
+  color: #f3f2f2;
+}
+.team-management-content-parent {
+  gap: 5.956rem;
+  font-size: 1.75rem;
+  color: #000;
+}
+@media screen and (max-width: 1200px) {
+  .mask-group-icon2,
+  .team-management-description-inner {
+    flex: 1;
+  }
+  .team-management-description {
+    flex-wrap: wrap;
+  }
+  .form-content {
+    flex: 1;
+  }
+  .subscription-form {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .form-content,
+  .team-management-description-inner {
+    min-width: 100%;
+  }
+  .form-content {
+    gap: 1.125rem;
+  }
+  .copyright-and-legal {
+    flex-wrap: wrap;
+  }
+  .footer-social {
+    gap: 1.438rem;
+  }
+  .component-11 {
+    gap: 1.875rem;
+    padding: 3.313rem 2.125rem 1.25rem;
+    box-sizing: border-box;
+  }
+  .team-management-content-parent {
+    gap: 3rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .manage-multiple-tiered {
+    font-size: 1.375rem;
+    line-height: 1.688rem;
+  }
+  .input-container {
+    flex-wrap: wrap;
+  }
+  .footer-links2 {
+    flex: 1;
+  }
+  .footer-links-container {
+    flex-wrap: wrap;
+  }
+  .component-11 {
+    gap: 0.938rem;
+  }
+  .team-management-content-parent {
+    gap: 1.5rem;
+  }
+}
